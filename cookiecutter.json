@@ -1,0 +1,8 @@
+{
+  "author_name": "Please enter your full name",
+  "email": "Please enter your email",
+  "repo_name": "give a Django project name, without spaces",
+  "app_name": "give a app name without spaces",
+  "project_short_description": "a short description of your Project",
+  "version": "current version eg : 0.1.1"
+}
